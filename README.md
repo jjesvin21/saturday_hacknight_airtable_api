@@ -11,7 +11,7 @@ Loading the extension
 - make sure that developer mode is turned on
 - click load unpacked and select the directory "saturday_hacknight_airtable_api\_"
 - password to access notes is 00000000
-
+- <a href="https://jjesvin21.github.io/saturday_hacknight_airtable_api/">Demo Link</a> (website)
 
 ![Screenshot from 2022-07-16 21-48-27](https://user-images.githubusercontent.com/77630686/179363285-215cb905-2520-4cb9-a4fa-89499f3547f7.png)
 
